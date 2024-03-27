@@ -1,0 +1,30 @@
+*{
+    font-family: "Cabin Condensed", sans-serif;
+    font-style: normal;
+}
+.lobster-regular{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#Bttcarrusel1{
+    width:15px; 
+    height:10px;  
+    border-radius: 50%;
+    background: rgba(19, 21, 124, 0.589);
+ }
+
+#Bttcarrusel2{
+    width:15px; 
+    height:10px;  
+    border-radius: 50%;
+    background: rgba(19, 21, 124, 0.589);
+ }
+ html {
+    scroll-behavior: smooth;
+    }
+.custom-tooltip {
+        --bs-tooltip-bg: var(--bd-violet-bg);
+        --bs-tooltip-color: var(--bs-white);
+      }
